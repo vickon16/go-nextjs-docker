@@ -1,4 +1,4 @@
-module github.com/vickon16/go-nextjs-docker
+module github.com/vickon16/go-nextjs-docker/backend
 
 go 1.23.0
 
